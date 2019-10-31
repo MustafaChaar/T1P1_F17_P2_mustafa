@@ -1,0 +1,3 @@
+alias l='ls'
+alias push='git push'
+alias bk='../'
