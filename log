@@ -1,0 +1,19 @@
+$ git log
+commit 4b0b46ddb3a796f0547e13fd906604445d47e33a (HEAD -> master, origin/master)
+Author: mustafachaar <mustafa_abdulkareem>
+Date:   Thu Oct 31 19:30:39 2019 +0200
+
+    alias.txt added
+
+commit dbd5f7fef35fd56fdc05421a5674f3d2458bde08
+Author: mustafachaar <mustafa_abdulkareem>
+Date:   Thu Oct 31 19:23:11 2019 +0200
+
+    ssh key
+
+commit 6b4d0243d29ccb4728ab1519168d25258da332f5
+Author: mustafachaar <mustafa_abdulkareem>
+Date:   Thu Oct 31 19:08:24 2019 +0200
+
+     copied the script
+
